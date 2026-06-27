@@ -1,0 +1,6 @@
+{
+  "name": "Family Story",
+  "description": "Transform your family photographs and captured memories into beautiful illustrated stories with Gemini AI, and export them as professionally typeset PDFs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
